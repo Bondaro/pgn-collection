@@ -9,3 +9,4 @@ Diese Sammlung enthält analysierte Schachpartien aus Master of Chess in PGN-For
 
 ## Hinweise
 - PGNs frei nutzbar für Studium & Training
+
