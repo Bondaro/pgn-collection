@@ -1,6 +1,6 @@
-Sammlung analysierter PGN-Partien
+Sammlung analysierter Master of Chess PGN-Partien
 
-Diese Sammlung enthält analysierte Schachpartien im PGN-Format.
+Diese Sammlung enthält analysierte Schachpartien im aus Master of Chess in PGN-Format.
 
 ## Inhalte
 - Turnierpartien
@@ -8,5 +8,4 @@ Diese Sammlung enthält analysierte Schachpartien im PGN-Format.
 - Trainingsstellungen
 
 ## Hinweise
-- Analysen teilweise mit Engine-Unterstützung
 - PGNs frei nutzbar für Studium & Training
