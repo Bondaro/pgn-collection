@@ -4,7 +4,6 @@ Die Analyse im Spiel basiert auf der Lizard Chess Engine, die auch für die Zugb
 
 https://store.steampowered.com/app/2248900/Master_of_Chess/
 
-Lizard Chess Engine
 Lizard Chess Engine ist eine moderne, quelloffene Schachanalyse-Engine, die zur Erforschung und Verbesserung von Schachspielstrategien entwickelt wurde. 
 Sie nutzt fortgeschrittene Suchalgorithmen und Bewertungsfunktionen, um Schachstellungen effizient zu analysieren und optimale Züge zu berechnen. 
 Ihre offene Architektur macht sie für Forschung und Entwicklung besonders attraktiv.
