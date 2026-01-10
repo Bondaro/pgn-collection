@@ -26,6 +26,17 @@ Diese Sammlung soll zeigen:
 - dass Fehler zum Lernprozess gehören  
 - dass man auch nach Pausen wieder sinnvoll ins Schach zurückfinden kann
 
-## Meine YouTube Videos  
-- [Vom Bauern zum König - mit Spaß zum Schachprofi!](https://www.youtube.com/playlist?list=PLbxG-SzgGPfQr6c_s4MM4GzQVv7BRqyaG)
-- [Master of Chess - Der erste und einzige Karrieresimulator für Schach!](https://www.youtube.com/playlist?list=PLbxG-SzgGPfTlWnEXfiz8Bf-kkhjC_3aR)
+## Bezug zu meinen YouTube-Videos
+
+Ein Teil dieser PGN-Sammlung gehört zu meinen Schachvideos auf YouTube.  
+Dort analysiere ich Partien, erkläre Gedanken und zeige bewusst auch Fehler und Unsicherheiten.
+
+### Videoreihen und Beispiele
+
+- **Vom Bauern zum König – mit Spaß zum Schachprofi**  
+  Eine ältere Videoreihe über meinen Wiedereinstieg ins Schach.  
+  ▶️ [Zur Playlist / zum Video](https://www.youtube.com/playlist?list=PLbxG-SzgGPfQr6c_s4MM4GzQVv7BRqyaG)
+
+- **Master of Chess – Der erste und einzige Karrieresimulator für Schach**  
+  Vorstellung des Spiels und begleitende Partien.  
+  ▶️ [Video ansehen](https://www.youtube.com/playlist?list=PLbxG-SzgGPfTlWnEXfiz8Bf-kkhjC_3aR)
