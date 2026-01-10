@@ -1,28 +1,21 @@
-# PGN-Sammlung
+# Master of Chess – Partien 2026
 
-Diese Sammlung dokumentiert meine Schachpartien im PGN-Format.
+In diesem Ordner befinden sich Partien aus dem Schachprogramm  
+„Master of Chess“ (Steam-Version).
 
-Nach längerer Pause habe ich wieder begonnen, regelmäßig zu spielen.
-Hier geht es nicht um perfekte Partien, sondern um Lernprozess, Verständnis und ehrliche Entwicklung.
+Die Partien stehen in direktem Bezug zu meinen YouTube-Videos und zeigen bewusst auch Fehler, Ungenauigkeiten und Lernprozesse.
 
-## Struktur
+Ziel ist nicht Perfektion, sondern nachvollziehbare Entwicklung.
 
-- master-of-chess/  
-  Partien aus dem Steam-Spiel „Master of Chess“, hauptsächlich begleitend zu meinen YouTube-Videos.
+## Namensschema der Dateien
 
-- lichess/  
-  Partien und Trainingspartien von Lichess.
+Beispiel:
+- game_001.pgn  
+- game_002.pgn  
+- game_003.pgn  
 
-- chess-ultra/  
-  Partien aus anderen Schachprogrammen wie Chess Ultra.
+Oder alternativ:
+- ep01_erstes_match.pgn  
+- ep02_taktikprobleme.pgn  
 
-- images/  
-  Bilder, Diagramme und Ausschnitte aus Partien zur besseren Nachvollziehbarkeit.
-
-## Ziel
-
-Diese Sammlung soll zeigen:
-- wie sich Spielverständnis mit der Zeit entwickelt  
-- dass Fehler zum Lernprozess gehören  
-- dass man auch nach Pausen wieder sinnvoll ins Schach zurückfinden kann
-
+Beides ist möglich – wichtig ist nur, dass die Reihenfolge erkennbar bleibt.
