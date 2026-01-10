@@ -25,3 +25,7 @@ Diese Sammlung soll zeigen:
 - wie sich Spielverständnis mit der Zeit entwickelt  
 - dass Fehler zum Lernprozess gehören  
 - dass man auch nach Pausen wieder sinnvoll ins Schach zurückfinden kann
+
+## Meine YouTube Videos  
+- [Vom Bauern zum König - mit Spaß zum Schachprofi!](https://www.youtube.com/playlist?list=PLbxG-SzgGPfQr6c_s4MM4GzQVv7BRqyaG)
+- [Master of Chess - Der erste und einzige Karrieresimulator für Schach!](https://www.youtube.com/playlist?list=PLbxG-SzgGPfTlWnEXfiz8Bf-kkhjC_3aR)
