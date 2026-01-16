@@ -1,4 +1,4 @@
-# Partie 00X – Master of Chess
+# Partie 002 – Master of Chess
 
 Quelle: Master of Chess (Steam)  
 Farbe: Schwarz  
