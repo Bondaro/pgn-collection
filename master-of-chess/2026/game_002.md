@@ -15,4 +15,4 @@ Schwerpunkte dieser Partie:
 
 
 ## Lichess-Analyse
-https://lichess.org/hehYHbIV
+ https://lichess.org/M7djZQ8V
