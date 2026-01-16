@@ -14,5 +14,5 @@ Schwerpunkte dieser Partie:
 ## Optional: Analyse
 
 
-## Lichess-Analyse (optional)
+## Lichess-Analyse
 https://lichess.org/hehYHbIV
